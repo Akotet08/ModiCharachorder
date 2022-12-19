@@ -8,4 +8,4 @@ Once the layers of the model were built, we trained the model on a custom datase
 
 We trained the model on the google Colab workspace and downloaded the trained weights. These weights were then used to initilize the model on our local machine. The model receives inputs from a keyboard event-listener and outputs the most likely word that can be formed with that input. These runs together with the modichorder program allowing as to autocomplete words by just pressing the tab key on our modichorder.
 
-![modi (1)](https://user-images.githubusercontent.com/46914459/208354037-c9cdad44-bf6e-46a4-aca3-13553dd8ff4c.png)
+<img src="Modichorder.jpeg" alt="Modi" width="200"/>
